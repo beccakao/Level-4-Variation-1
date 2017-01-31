@@ -29,13 +29,13 @@ body{
 }
 
 .poem1{
-	color:black;
+	color:gray;
 	font-family: Courier;
 	font-size: 22px;
 }
 
 .poem2{
-	color:gray;
+	color:black;
 	font-family: Courier;
 	font-size: 22px;
 }
