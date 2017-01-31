@@ -28,6 +28,12 @@ body{
 	position: absolute;
 }
 
+.poem0{
+	color:blue;
+	font-family: Courier;
+	font-size: 22px;
+}
+
 .poem1{
 	color:gray;
 	font-family: Courier;
