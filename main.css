@@ -1,0 +1,50 @@
+* {
+	box-sizing: content-box;
+}
+
+body{
+
+	background: white;
+}
+
+.pattern-1{
+	float: left;
+	width: 500px;
+	height: 500px;
+	margin: 20;
+	background-color: #dadada;
+}
+.spacing0{
+	position: absolute;
+}
+
+.spacing1{
+	position: absolute;
+}
+
+.spacing2{
+	padding: 40px 40px;
+	position: absolute;
+}
+
+.poem1{
+	color:red;
+	font-family: Courier;
+	font-size: 50px;
+}
+
+.poem2{
+	color:blue;
+	font-family: Courier;
+	font-size: 50px;
+}
+
+p{
+	width: 500px;
+	margin: 10px;
+}
+
+img{
+	float: right;
+	margin: 50px;
+}
